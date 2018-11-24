@@ -1,0 +1,46 @@
+{
+  "name": "of",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc ava"
+  },
+  "license": "AGPL-3.0",
+  "lint-staged": {
+    "*.{js,json,md}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "repository": "millette/og",
+  "author": {
+    "name": "Robin Millette",
+    "email": "robin@millette.info",
+    "url": "http://robin.millette.info"
+  },
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "scripts": {
+    "test": "nyc test"
+  },
+  "dependencies": {
+    "got": "^9.3.2",
+    "htmlmetaparser": "^1.2.1",
+    "htmlparser2": "^3.10.0"
+  },
+  "devDependencies": {
+    "ava": "^1.0.0-rc.2",
+    "husky": "^1.2.0",
+    "lint-staged": "^8.1.0",
+    "nock": "^10.0.2",
+    "nyc": "^13.1.0",
+    "prettier": "^1.15.2",
+    "standard": "^12.0.1"
+  }
+}
