@@ -1,0 +1,561 @@
+{
+  "result": {
+    "alternate": [
+      {
+        "type": "text/html",
+        "hreflang": "fr",
+        "href": "http://mabo.ca/s/fr/Categorie/Tous.html"
+      }
+    ],
+    "icons": [
+      {
+        "type": "image/png",
+        "sizes": "32x32",
+        "href": "http://mabo.ca/Upload/fav/86/favicon-32x32.png"
+      },
+      {
+        "type": "image/png",
+        "sizes": "96x96",
+        "href": "http://mabo.ca/Upload/fav/86/favicon-96x96.png"
+      },
+      {
+        "type": "image/png",
+        "sizes": "16x16",
+        "href": "http://mabo.ca/Upload/fav/86/favicon-16x16.png"
+      },
+      {
+        "href": "http://mabo.ca/Upload/fav/86/favicon.ico"
+      }
+    ],
+    "links": [
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#",
+        "text": "Facebook",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#",
+        "text": "Tweet",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#",
+        "text": "Google",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#",
+        "text": "Pinterest",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#",
+        "text": "Blogger",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#",
+        "text": "Email",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#",
+        "text": "Digg it",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#",
+        "text": "Stumbleupon",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#",
+        "text": "Delicious",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#",
+        "text": "Language (EN)",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/fr/Categorie/Tous.html?overridelang=1",
+        "text": "Français",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#",
+        "text": "English",
+        "download": false
+      },
+      {
+        "href": "javascript:",
+        "text": "Login",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#",
+        "text": "Welcome",
+        "download": false
+      },
+      {
+        "href": "https://companyshop.ca/Manage",
+        "text": "Account Settings",
+        "download": false,
+        "target": "_blank"
+      },
+      {
+        "href": "https://companyshop.ca/86/MyOrders",
+        "text": "My Orders",
+        "download": false
+      },
+      {
+        "href": "javascript:",
+        "text": "Log Out",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/86/Category",
+        "text": "INVENTORY",
+        "download": false,
+        "target": "_self"
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#",
+        "text": "DEPARTMENTS",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/en/Shop/Index/183",
+        "text": "SALES",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/en/Shop/Index/184",
+        "text": "SERVICE",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/en/Shop/Index/185",
+        "text": "PARTS AND ACCESSORIES",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/en/Shop/Index/186",
+        "text": "BODY SHOP",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/86/Albums",
+        "text": "CUSTOM CREATIONS",
+        "download": false,
+        "target": "_self"
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#",
+        "text": "TEAM",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/86/Shop/Team/Val-d%27Or?GroupId=dd1f12be-2679-40ef-955e-5d5ae94451b6",
+        "text": "Val-d'Or",
+        "download": false,
+        "target": "_self"
+      },
+      {
+        "href": "http://mabo.ca/86/Shop/Team/Rouyn-Noranda?GroupId=8a2fc261-7957-4419-a09f-f8eb668f74e2",
+        "text": "Rouyn-Noranda",
+        "download": false,
+        "target": "_self"
+      },
+      {
+        "href": "http://mabo.ca/86/Shop/Jobs",
+        "text": "JOBS",
+        "download": false,
+        "target": "_self"
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#",
+        "text": "CONTACT U.S",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/en/Shop/Index/180",
+        "text": "Val-d'or",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/en/Shop/Index/279",
+        "text": "Rouyn-Noranda",
+        "download": false
+      },
+      {
+        "href": "https://companyshop.ca/",
+        "text": "CompanyShop.ca",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#collapse0b7eca39d",
+        "text": "Categories",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html",
+        "text": "14 All",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/1228/Category/transport-trucks-new.html",
+        "text": "1 Transport trucks New",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/1271/Category/truck-trailer-new.html",
+        "text": "1 Truck Trailer New",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/1272/Category/truck-trailer-used.html",
+        "text": "1 Truck Trailer Used",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/1332/Category/transport-trucks-new-truck.html",
+        "text": "8 Transport trucks New Truck",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/1335/Category/transport-trucks-trailers-and-other-used.html",
+        "text": "1 Transport trucks Trailers and other Used",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/1337/Category/transport-trucks-trailers-and-other.html",
+        "text": "2 Transport trucks Trailers and other",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html#collapse04b13f58d",
+        "text": "Categories",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/en/Category/All.html",
+        "text": "14 All",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/1228/Category/transport-trucks-new.html",
+        "text": "1 Transport trucks New",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/1271/Category/truck-trailer-new.html",
+        "text": "1 Truck Trailer New",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/1272/Category/truck-trailer-used.html",
+        "text": "1 Truck Trailer Used",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/1332/Category/transport-trucks-new-truck.html",
+        "text": "8 Transport trucks New Truck",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/1335/Category/transport-trucks-trailers-and-other-used.html",
+        "text": "1 Transport trucks Trailers and other Used",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/1337/Category/transport-trucks-trailers-and-other.html",
+        "text": "2 Transport trucks Trailers and other",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/12658/Products/transport-trucks/trailers-and-other/deck-forestierlogger.html",
+        "text": "Deck forestier/logger",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/13385/Products/transport-trucks/new/freightliner-114sd-2019.html",
+        "text": "Freightliner 114SD 2019",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/13391/Products/transport-trucks/new-truck/freightliner-new-cascadia-2019.html",
+        "text": "Freightliner New Cascadia 2019",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/13380/Products/transport-trucks/new-truck/freightliner-pt126slp.html",
+        "text": "Freightliner PT126SLP",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/13382/Products/transport-trucks/new-truck/freightliner-pt126slp.html",
+        "text": "Freightliner PT126SLP",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/13384/Products/truck-trailer/new/remorque-convoyeur-abs.html",
+        "text": "Remorque convoyeur ABS",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/12940/Products/transport-trucks/trailers-and-other/remorque-de-bois.html",
+        "text": "Remorque de bois",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/13381/Products/truck-trailer/used/remorque-manac.html",
+        "text": "Remorque Manac",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/13199/Products/transport-trucks/trailers-and-other-used/trailler-manac-2016.html",
+        "text": "TRAILLER MANAC 2016",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/13020/Products/transport-trucks/new-truck/western-star-2017-dramis.html",
+        "text": "Western Star 2017 Dramis",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/13379/Products/transport-trucks/new-truck/western-star-2019-4700sf.html",
+        "text": "Western Star 2019 4700SF",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/13389/Products/transport-trucks/new-truck/western-star-2019-4900sb.html",
+        "text": "Western Star 2019 4900SB",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/13395/Products/transport-trucks/new-truck/western-star-4900sb.html",
+        "text": "Western Star 4900SB",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/s/13394/Products/transport-trucks/new-truck/western-star-4900sf-2019.html",
+        "text": "Western Star 4900SF 2019",
+        "download": false
+      },
+      {
+        "href": "https://companyshop.ca/",
+        "text": "CompanyShop.ca",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/en/Shop/Index/180",
+        "text": "Contact Us",
+        "download": false
+      },
+      {
+        "href": "http://mabo.ca/en/Legal",
+        "text": "Legal Notice",
+        "download": false
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/Flags/GB.jpg",
+        "alt": "English"
+      },
+      {
+        "src": "/images/Flags/FR.jpg",
+        "alt": "Français"
+      },
+      {
+        "src": "/images/Flags/GB.jpg",
+        "alt": "English"
+      },
+      {
+        "src": "/Upload/86/e1881fb5-fb3a-4d36-86db-744a58045f44.png"
+      },
+      {
+        "src": "/Upload/79/9cf64419-1f3c-4534-9982-c76b71d34217.png",
+        "alt": "Centre du Camion Mabo inc. Logo"
+      },
+      {
+        "src": "/images/none.gif"
+      },
+      {
+        "src": "/Upload/79/84cdb2a3-889b-4888-bd28-6d3769434ced.jpg",
+        "alt": "Deck forestier/logger"
+      },
+      {
+        "src": "/images/none.gif"
+      },
+      {
+        "src": "/Upload/79/0272cba9-8e37-4b73-9e33-e28ea730161b.JPG",
+        "alt": "Freightliner 114SD 2019"
+      },
+      {
+        "src": "/images/none.gif"
+      },
+      {
+        "src": "/Upload/79/92092753-3411-466a-af4f-ece41707f1c5.JPG",
+        "alt": "Freightliner New Cascadia 2019"
+      },
+      {
+        "src": "/images/none.gif"
+      },
+      {
+        "src": "/Upload/79/c2fe6bcb-4bd4-48e5-a13e-fda07a9bdacd.JPG",
+        "alt": "Freightliner PT126SLP"
+      },
+      {
+        "src": "/images/none.gif"
+      },
+      {
+        "src": "/Upload/79/a4d520f6-4625-4723-aec9-1a2e2adfbd3d.JPG",
+        "alt": "Freightliner PT126SLP"
+      },
+      {
+        "src": "/images/none.gif"
+      },
+      {
+        "src": "/Upload/79/9edaeffb-2624-4577-ae67-d50d568b3726.jpg",
+        "alt": "Remorque convoyeur ABS"
+      },
+      {
+        "src": "/images/none.gif"
+      },
+      {
+        "src": "/Upload/79/69dc7f84-1d8d-4553-973a-5c92a7bdfa20.jpg",
+        "alt": "Remorque de bois"
+      },
+      {
+        "src": "/Images/Overlay/ItemOverlay_Sold_en.png"
+      },
+      {
+        "src": "/images/none.gif"
+      },
+      {
+        "src": "/Upload/79/9cd0b851-afbc-4436-94ae-e3e06b0592b7.JPG",
+        "alt": "Remorque Manac"
+      },
+      {
+        "src": "/images/none.gif"
+      },
+      {
+        "src": "/Upload/79/42202561-ec06-4cca-9002-07813ca03128.jpg",
+        "alt": "TRAILLER MANAC 2016"
+      },
+      {
+        "src": "/Images/Overlay/ItemOverlay_Sold_en.png"
+      },
+      {
+        "src": "/images/none.gif"
+      },
+      {
+        "src": "/Upload/79/19a0cde7-d464-4bd5-ac5b-c8e8f2642549.JPG",
+        "alt": "Western Star 2017 Dramis"
+      },
+      {
+        "src": "/images/none.gif"
+      },
+      {
+        "src": "/Upload/79/90f26bfa-529a-4aec-99c8-a9fae49d6d83.JPG",
+        "alt": "Western Star 2019 4700SF"
+      },
+      {
+        "src": "/Images/Overlay/ItemOverlay_Sold_en.png"
+      },
+      {
+        "src": "/images/none.gif"
+      },
+      {
+        "src": "/Upload/79/b9de0870-9957-4b6d-af84-5579217f51c4.JPG",
+        "alt": "Western Star 2019 4900SB"
+      },
+      {
+        "src": "/images/none.gif"
+      },
+      {
+        "src": "/Upload/79/d29cbd63-8c24-4f01-94a3-3c27d67f93ce.JPG",
+        "alt": "Western Star 4900SB"
+      },
+      {
+        "src": "/images/none.gif"
+      },
+      {
+        "src": "/Upload/79/00ca3416-456a-44b6-8ec1-fb90d0a52446.JPG",
+        "alt": "Western Star 4900SF 2019"
+      },
+      {
+        "src": "/images/SocialMedias/facebook icon.png"
+      },
+      {
+        "src": "/images/ajax-loader-black.gif"
+      }
+    ],
+    "html": {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "author": "Centre du Camion Mabo inc.",
+      "title": "Category -",
+      "description": "Le Centre du Camion Mabo inc. offre aux entreprises de transport de l'Abitibi, du Témiscamingue et du Nord du Québec les meilleurs services d'entretien, de répa...",
+      "apple-mobile-web-app-title": "Mabo",
+      "application-name": "Mabo"
+    },
+    "rdfa": {
+      "@context": {
+        "og": "http://ogp.me/ns#",
+        "fb": "http://ogp.me/ns/fb#",
+        "product": "http://ogp.me/ns/product#"
+      },
+      "@graph": [
+        {
+          "og:type": "website",
+          "og:site_name": "Centre du Camion Mabo inc.",
+          "fb:app_id": "1501127320149157",
+          "og:locale": "fr_CA",
+          "og:url": "http://mabo.ca/s/en/Category/All.html",
+          "og:image": "http://mabo.ca/Upload/79/3757a1ce-ccb2-4185-8263-0ecfacc2455d.png",
+          "og:image:type": "image/png",
+          "og:image:width": "600",
+          "og:image:height": "315",
+          "og:title": "Category -",
+          "og:description": "Le Centre du Camion Mabo inc. offre aux entreprises de transport de l'Abitibi, du Témiscamingue et du Nord du Québec les meilleurs services d'entretien, de réparation et de pièces de camions et remorques."
+        }
+      ]
+    },
+    "jsonld": {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name": "Centre du Camion Mabo inc.",
+      "url": "http://mabo.ca",
+      "sameAs": [
+        "http://Shop.CompanyShop.ca/86",
+        "https://www.facebook.com/www.mabo.ca"
+      ]
+    }
+  },
+  "url": "http://mabo.ca/s/en/Category/All.html",
+  "headers": {
+    "cache-control": "public, no-cache=\"Set-Cookie\", max-age=300",
+    "content-type": "text/html; charset=utf-8",
+    "content-encoding": "gzip",
+    "expires": "Fri, 23 Nov 2018 23:55:14 GMT",
+    "last-modified": "Fri, 23 Nov 2018 23:50:14 GMT",
+    "vary": "Accept-Encoding",
+    "server": "Microsoft-IIS/8.0",
+    "set-cookie": [
+      "ASP.NET_SessionId=10m3m4l0feifbbs44lu4qgsk; path=/; HttpOnly",
+      "ASP.NET_SessionId=10m3m4l0feifbbs44lu4qgsk; path=/; HttpOnly",
+      "CSVisitorId=ae0ffcc8-330e-4ec3-b597-3736703778fd; expires=Sat, 23-Mar-2019 22:50:14 GMT; path=/",
+      "__RequestVerificationToken=amOoSRpLf_GMZX7cdTpGETXV0ejJF7wvRFTbWZ-T4zVcgj7szOsGQKEO0TSr-k6e2c71cFsVc-YqUrASYboKYzhJz9YmWbNHqZkv_hyIMjg1; path=/; HttpOnly"
+    ],
+    "x-aspnetmvc-version": "5.2",
+    "x-aspnet-version": "4.0.30319",
+    "x-server": "CompanyShop 2.5.3",
+    "x-ua-compatible": "IE=Edge,chrome=1",
+    "date": "Fri, 23 Nov 2018 23:50:14 GMT",
+    "connection": "close",
+    "content-length": "9644"
+  }
+}
