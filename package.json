@@ -1,6 +1,7 @@
 {
   "name": "of",
   "version": "0.0.0",
+  "description": "Scrapper",
   "main": "index.js",
   "bin": "cli.js",
   "license": "AGPL-3.0",
@@ -22,7 +23,7 @@
     "url": "http://robin.millette.info"
   },
   "engines": {
-    "node": ">= 10.13.0"
+    "node": ">= 10.14.2"
   },
   "scripts": {
     "coverage": "nyc report --reporter=text-lcov | coveralls",
