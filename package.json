@@ -31,9 +31,9 @@
     "test": "nyc ava"
   },
   "dependencies": {
-    "got": "^9.5.0",
+    "got": "^9.6.0",
     "htmlmetaparser": "^1.2.1",
-    "htmlparser2": "^3.10.0"
+    "htmlparser2": "^3.10.1"
   },
   "devDependencies": {
     "ava": "^2.1.0",
